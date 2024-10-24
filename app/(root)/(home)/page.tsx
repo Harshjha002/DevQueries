@@ -3,8 +3,7 @@ import { UserButton } from '@clerk/nextjs'
 
 const Home = () => {
   return (
-    <div className='flex-center'>
-      Home
+    <div>
       <UserButton/>
     </div>
   )
